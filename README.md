@@ -79,3 +79,47 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## 📂 Estructura del Proyecto
+```yaml
+
+GESTION_IA/
+│
+├── assets/                  # Recursos visuales o plantillas
+├── logs/                    # Archivos de log generados durante el análisis
+│
+├── modules/                 # Lógica principal del sistema
+│   ├── analisis.py          # Validaciones y extracción desde PDF
+│   ├── conexiones.py        # Módulo para futuras conexiones a BD o APIs
+│
+├── ui/                      # Interfaz gráfica
+│   ├── main_window.py       # Ventana principal con PyQt6
+│   ├── styles.py            # Personalización de estilos
+│
+├── main.py                  # Script principal del sistema
+├── requirements.txt         # Dependencias del proyecto
+├── LICENSE
+├── README.md
+└── venv/                    # Entorno virtual (ignorado en Git)
+```
+
+
+## 🔍 Flujo de Trabajo - Etapa 1
+```yaml
+1️⃣ Carga de expediente (PDF).
+2️⃣ Extracción y lectura de datos relevantes.
+3️⃣ Validación de la completitud documental.
+4️⃣ Registro del resultado en logs.
+5️⃣ (Opcional) Notificación al operador o generación de reporte.
+```
+
+## 🧠 Funcionalidades Futuras
+🔜 Cómputo de años de servicios con IA
+🔜 Detección de tipos de servicios y compatibilidades
+🔜 Integración con bases históricas para verificación cruzada
+🔜 Exportación de informes en Excel o PDF
+🔜 Dashboard de control y métricas de documentos procesados
+
+## ✅ Licencia
+Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más información.
+
