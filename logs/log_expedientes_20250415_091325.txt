@@ -1,0 +1,11 @@
+📁 Análisis de Expedientes - 20250415_091325
+Ruta base: C:\Users\wolfwilson\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 0
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 0
+▪ Expedientes con CUIL detectado: 0
+▪ Expedientes con error de lectura: 0
+
+🗂 CSV generado: logs\expedientes_20250415_091325.csv
