@@ -1,0 +1,7 @@
+📁 Análisis de Expedientes - 20250415_120714
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 14
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-004168-2025\E-004168-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True

@@ -1,0 +1,53 @@
+📁 Análisis de Expedientes - 20250415_102933
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 14
+
+1. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-004168-2025\E-004168-2025.pdf
+   📝 Resumen: Nro: 535-270225-4168 Iniciado: GAVILAN MARTA ANALIA Extracto: SOLICITA Jubilación Ordinaria Móvil Docente TRAMITE ON LINE. CUIL: 27174834887 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 27/02/2025 08:22 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-004168-2025 DATOS DEL AFILIADO Apellido y Nombre: GAVILAN MARTA ANALIA Nro. Documento: Fecha Nacimiento: Sexo: 17483488 17/10/
+
+2. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007548-2025\E-007548-2025.pdf
+   📝 Resumen: Nro: 535-090425-7548 Iniciado: GONZALEZ JULIA ESTHER Extracto: SOLICITA Jubilación Ordinaria Móvil Docente TRAMITE ON LINE. CUIL: 27204242785 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 09/04/2025 10:47 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007548-2025 DATOS DEL AFILIADO Apellido y Nombre: GONZALEZ JULIA ESTHER Nro. Documento: Fecha Nacimiento: Sexo: 20424278 26/1
+
+3. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007565-2025\E-007565-2025.pdf
+   📝 Resumen: Nro: 535-090425-7565 Iniciado: DENIZ FELIX Extracto: SOLICITA Jubilación Ordinaria Móvil Docente TRAMITE ON LINE. CUIL: 20136882172 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 09/04/2025 12:00 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007565-2025 DATOS DEL AFILIADO Apellido y Nombre: DENIZ FELIX Nro. Documento: Fecha Nacimiento: Sexo: 13688217 26/05/1960 M Cuil: Nacio
+
+4. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007573-2025\E-007573-2025.pdf
+   📝 Resumen: Nro: 535-100425-7573 Iniciado: PALACIOS RITA ANGELA Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27121256733 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 10/04/2025 08:27 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007573-2025 DATOS DEL AFILIADO Apellido y Nombre: PALACIOS RITA A NGELA Nro. Documento: Fecha Nacimiento: Sexo: 12125673 27/04/1956 F 
+
+5. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007583-2025\E-007583-2025.pdf
+   📝 Resumen: Nro: 535-100425-7583 Iniciado: VEGA AMALIA ESTER Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27132189515 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 10/04/2025 12:56 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007583-2025 DATOS DEL AFILIADO Apellido y Nombre: VEGA AMALIA ES TER Nro. Documento: Fecha Nacimiento: Sexo: 13218951 18/06/1959 F Cuil: 
+
+6. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007584-2025\E-007584-2025.pdf
+   📝 Resumen: Nro: 535-100425-7584 Iniciado: DELGADO CECILIA LILIANA Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27181457983 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 10/04/2025 13:28 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007584-2025 DATOS DEL AFILIADO Apellido y Nombre: DELGADO CECIL IA LILIANA Nro. Documento: Fecha Nacimiento: Sexo: 18145798 22/05/1
+
+7. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007724-2025\E-007724-2025.pdf
+   📝 Resumen: Nro: 535-110425-7724 Iniciado: VETTORAZZI MARY ROSA Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27160042252 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 11/04/2025 19:43 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007724-2025 DATOS DEL AFILIADO Apellido y Nombre: VETTORAZZI MAR Y ROSA Nro. Documento: Fecha Nacimiento: Sexo: 16004225 17/10/1961 F 
+
+8. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007725-2025\E-007725-2025.pdf
+   📝 Resumen: Nro: 535-130425-7725 Iniciado: SANCHEZ GLADY ISIDORA Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27134395740 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 13/04/2025 22:01 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007725-2025 DATOS DEL AFILIADO Apellido y Nombre: SANCHEZ GLADY ISIDORA Nro. Documento: Fecha Nacimiento: Sexo: 13439574 24/05/1959 F
+
+9. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007752-2025\E-007752-2025.pdf
+   📝 Resumen: Nro: 535-140425-7752 Iniciado: OJEDA RAMON NICOLAS Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 20173691964 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 14/04/2025 08:24 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007752-2025 DATOS DEL AFILIADO Apellido y Nombre: OJEDA RAMON N ICOLAS Nro. Documento: Fecha Nacimiento: Sexo: 17369196 17/02/1965 M Cu
+
+10. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007771-2025\E-007771-2025.pdf
+   📝 Resumen: Nro: 535-140425-7771 Iniciado: GOMEZ MARIO RAMON Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 20121041791 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 14/04/2025 09:06 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007771-2025 DATOS DEL AFILIADO Apellido y Nombre: GOMEZ MARIO R AMON Nro. Documento: Fecha Nacimiento: Sexo: 12104179 06/03/1956 M Cuil: 
+
+11. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007778-2025\E-007778-2025.pdf
+   📝 Resumen: Nro: 535-140425-7778 Iniciado: MONTENEGRO GLADYS ESTHER Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27168038890 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 14/04/2025 09:21 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007778-2025 DATOS DEL AFILIADO Apellido y Nombre: MONTENEGRO G LADYS ESTHER Nro. Documento: Fecha Nacimiento: Sexo: 16803889 22/05
+
+12. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007875-2025\E-007875-2025.pdf
+   📝 Resumen: Nro: 535-140425-7875 Iniciado: COURTADE DE GRAVOW VALERIA Extracto: SOLICITA Jubilación Ordinaria Móvil TRAMITE ON LINE. CUIL: 27170117943 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 14/04/2025 11:51 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007875-2025 DATOS DEL AFILIADO Apellido y Nombre: COURTADE DE G RAVOW VALERIA Nro. Documento: Fecha Nacimiento: Sexo: 17011794 1
+
+13. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007971-2025\E-007971-2025.pdf
+   📝 Resumen: Nro: 535-150425-7971 Iniciado: KESSLER DANIELA SOLEDAD Extracto: SOLICITA Jubilación Ordinaria Móvil Docente TRAMITE ON LINE. CUIL: 27237323462 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 15/04/2025 10:07 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007971-2025 DATOS DEL AFILIADO Apellido y Nombre: KESSLER DANIEL A SOLEDAD Nro. Documento: Fecha Nacimiento: Sexo: 23732346
+
+14. 📄 C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007973-2025\E-007973-2025.pdf
+   📝 Resumen: Nro: 535-150425-7973 Iniciado: MAYORANO RODOLFO ALBERTO Extracto: SOLICITA Jubilación Ordinaria Móvil Docente TRAMITE ON LINE. CUIL: 20169312444 Número de Fojas: 2 REPÚBLICA ARGENTINA PROVINCIA DEL CHACO AV. 9 DE JULIO 347 RESISTENCIAResistencia, 15/04/2025 10:12 "“2025 - Año del 40° Aniversario del juicio a las juntas militares”" FORMULARIO DE INICIO Solicita: Expediente: E-007973-2025 DATOS DEL AFILIADO Apellido y Nombre: MAYORANO ROD OLFO ALBERTO Nro. Documento: Fecha Nacimiento: Sexo: 169312
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 14
+▪ Expedientes con CUIL detectado: 14
+▪ Expedientes con error de lectura: 0
+
+🗂 CSV generado: logs\expedientes_20250415_102933.csv

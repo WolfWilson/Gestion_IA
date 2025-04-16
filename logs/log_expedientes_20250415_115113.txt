@@ -1,0 +1,162 @@
+📁 Análisis de Expedientes - 20250415_115113
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 14
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-004168-2025\E-004168-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Fotos DNI: True
+  - CUIL: 27174834887
+  - Observaciones: Ninguna
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007548-2025\E-007548-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Fotos DNI: True
+  - CUIL: 27204242785
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007565-2025\E-007565-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Fotos DNI: True
+  - CUIL: 20136882172
+  - Observaciones: Ninguna
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007573-2025\E-007573-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27121256733
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007583-2025\E-007583-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27132189515
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007584-2025\E-007584-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27181457983
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007724-2025\E-007724-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27160042252
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007725-2025\E-007725-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27134395740
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007752-2025\E-007752-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 20173691964
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007771-2025\E-007771-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 20121041791
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007778-2025\E-007778-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27168038890
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007875-2025\E-007875-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27170117943
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007971-2025\E-007971-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 27237323462
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007973-2025\E-007973-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Fotos DNI: True
+  - CUIL: 20169312444
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 14
+▪ Error de lectura: 0
+▪ Carátula hallada: 14
+▪ Formulario Inicio hallado: 14
+▪ Informe Renaper detectado: 14
+▪ Informe Renaper completo: 3
+▪ Fotos DNI correctas: 14
+▪ Expedientes con CUIL detectado: 14
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+
+🗂 CSV generado: logs\expedientes_20250415_115113.csv

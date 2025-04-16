@@ -1,0 +1,127 @@
+📁 Análisis de Expedientes - 20250415_110451
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 14
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-004168-2025\E-004168-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007548-2025\E-007548-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007565-2025\E-007565-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007573-2025\E-007573-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007583-2025\E-007583-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007584-2025\E-007584-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007724-2025\E-007724-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007725-2025\E-007725-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007752-2025\E-007752-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007771-2025\E-007771-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007778-2025\E-007778-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007875-2025\E-007875-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007971-2025\E-007971-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007973-2025\E-007973-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Fotos DNI: True
+  - Informe Renaper: False
+  - Observaciones:
+    * No se encontró Informe Renaper.
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 14
+▪ Error de lectura: 0
+▪ Carátula hallada: 14
+▪ Formulario de Inicio hallado: 14
+▪ Informe Renaper hallado: 0
+▪ Fotos DNI correctas: 14
+▪ Expedientes con CUIL detectado: 14
+
+🗂 CSV generado: logs\expedientes_20250415_110451.csv
