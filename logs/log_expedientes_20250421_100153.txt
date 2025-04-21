@@ -1,0 +1,250 @@
+📁 Análisis de Expedientes - 20250421_100153
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 15
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-000682-2025\E-000682-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: True
+  - CUIL: 27201933892
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-004168-2025\E-004168-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27174834887
+  - Observaciones:
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007548-2025\E-007548-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: False
+  - CUIL: 27204242785
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectaron ambas fotos de DNI (páginas 2 y 3).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007565-2025\E-007565-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20136882172
+  - Observaciones:
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007573-2025\E-007573-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27121256733
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007583-2025\E-007583-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: True
+  - CUIL: 27132189515
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007584-2025\E-007584-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: False
+  - CUIL: 27181457983
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectaron ambas fotos de DNI (páginas 2 y 3).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007724-2025\E-007724-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27160042252
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007725-2025\E-007725-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27134395740
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007752-2025\E-007752-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20173691964
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007771-2025\E-007771-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20121041791
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007778-2025\E-007778-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27168038890
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007875-2025\E-007875-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27170117943
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007971-2025\E-007971-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27237323462
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * Las imágenes del DNI parecen estar en blanco y negro (posible fotocopia).
+
+Expediente: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones\E-007973-2025\E-007973-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: False
+  - CUIL: 20169312444
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * No se detectaron ambas fotos de DNI (páginas 2 y 3).
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 15
+▪ Error de lectura: 0
+▪ Carátula hallada: 15
+▪ Formulario Inicio hallado: 15
+▪ Informe Renaper detectado: 15
+▪ Informe Renaper completo: 4
+▪ Informe SINTyS detectado: 15
+▪ Informe SINTyS OK: 15
+▪ Informe Intercajas detectado: 12
+▪ Informe Intercajas OK: 12
+▪ Fotos DNI correctas: 12
+▪ Expedientes con CUIL detectado: 15
+
+🗂 CSV generado: logs\expedientes_20250421_100153.csv
