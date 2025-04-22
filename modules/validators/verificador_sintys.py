@@ -52,8 +52,10 @@ def verificar_sintys(expediente, texto_pdf):
     # (Opcional) Chequear 'RELACIONES FAMILIARES' => 'Sin datos de Familiares'
     familiares_detectado = "RELACIONES FAMILIARES" in texto_pdf.upper()
     sin_familiares = "Sin datos de Familiares" in texto_pdf
-    if familiares_detectado and not sin_familiares:
-        expediente.agregar_observacion("Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.")
+    if sin_familiares:
+        expediente.agregar_observacion(
+        "Informe SINTyS: Se indica 'Sin datos de Familiares'. Falta información de vínculos."
+    )
 
     # Decidir si todo está OK
     # => Se detectó SINTyS, y se cumplieron "Sin datos de Discapacidad/Fallecimiento" 
