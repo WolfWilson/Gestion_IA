@@ -1,0 +1,20 @@
+📁 Análisis de Expedientes - 20250428_100321
+Ruta base: C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 0
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 0
+▪ Error de lectura: 0
+▪ Carátula hallada: 0
+▪ Formulario Inicio hallado: 0
+▪ Informe Renaper detectado: 0
+▪ Informe Renaper completo: 0
+▪ Informe SINTyS detectado: 0
+▪ Informe SINTyS OK: 0
+▪ Informe Intercajas detectado: 0
+▪ Informe Intercajas OK: 0
+▪ Fotos DNI correctas: 0
+▪ Expedientes con CUIL detectado: 0
+
+🗂 CSV generado: logs\expedientes_20250428_100321.csv

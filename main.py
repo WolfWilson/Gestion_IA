@@ -2,7 +2,7 @@
 from modules.controllers.verificacion_expediente import VerificacionExpedienteController
 
 def main():
-    ruta = r"C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones"
+    ruta = r"C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones"
     controller = VerificacionExpedienteController()
     resultados = controller.procesar_carpeta(ruta)
 
@@ -20,7 +20,9 @@ def main():
         print("  - Informe de intercajas detectado:", exp.intercajas_detectado)
         print("  - Informe de intercajas OK:", exp.intercajas_ok)
         print("  - Observaciones:", exp.observaciones)
-        print()
+        print("  - Anses detectado:", exp.anses_detectado)
+        print("  - Anses completo:", exp.anses_completo)
+              
 
 if __name__ == "__main__":
     main()

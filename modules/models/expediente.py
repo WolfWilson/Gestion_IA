@@ -24,6 +24,11 @@ class Expediente:
         #intercajas
         self.intercajas_detectado = False
         self.intercajas_ok = False  # "OK" significa que encontró las secciones y los "Sin datos" correspondientes.
+        
+        # ANSES 4-pantallas
+        self.anses_detectado = False
+        self.anses_completo = False
+
     
     def agregar_observacion(self, mensaje: str):
         self.observaciones.append(mensaje)

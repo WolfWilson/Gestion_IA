@@ -1,4 +1,4 @@
-# modules/controllers/verificacion_expediente.py
+# modules/controllers/verificacion_expediente.py principal
 
 import os
 import re
@@ -130,6 +130,9 @@ class VerificacionExpedienteController:
                 f.write(f"  - Informe Intercajas OK: {e.intercajas_ok}\n")
                 f.write(f"  - Fotos DNI: {e.fotos_dni_front and e.fotos_dni_back}\n")
                 f.write(f"  - CUIL: {e.cuil}\n")
+                f.write(f"  - Informe ANSES detectado: {e.anses_detectado}\n")
+                f.write(f"  - Informe ANSES completo: {e.anses_completo}\n")
+
 
                 if e.observaciones:
                     f.write("  - Observaciones:\n")
