@@ -2,7 +2,7 @@
 from modules.controllers.verificacion_expediente import VerificacionExpedienteController
 
 def main():
-    ruta = r"C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones"
+    ruta = r"C:\Users\wbenitez\Downloads\Digitalizacion_jubilaciones"
     controller = VerificacionExpedienteController()
     resultados = controller.procesar_carpeta(ruta)
 
