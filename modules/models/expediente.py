@@ -28,7 +28,7 @@ class Expediente:
         # ANSES 4-pantallas
         self.anses_detectado = False
         self.anses_completo = False
-
-    
+        # ANSES NEGATIVA
+        self.certneg_ok = False
     def agregar_observacion(self, mensaje: str):
         self.observaciones.append(mensaje)

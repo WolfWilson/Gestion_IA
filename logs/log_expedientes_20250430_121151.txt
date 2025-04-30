@@ -1,0 +1,18 @@
+📁 Análisis de Expedientes - 20250430_121151
+Ruta base: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 15
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000135-2025\E-000135-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27167585847
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True

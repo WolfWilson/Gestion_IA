@@ -1,0 +1,308 @@
+📁 Análisis de Expedientes - 20250430_122547
+Ruta base: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones
+Total archivos válidos encontrados: 15
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000135-2025\E-000135-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27167585847
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000138-2025\E-000138-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20170167849
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000220-2025\E-000220-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27229055025
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000270-2025\E-000270-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27173568024
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000619-2025\E-000619-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 23179757974
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000682-2025\E-000682-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: True
+  - CUIL: 27201933892
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: False
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * Informe ANSES incompleto: 0×'NO CONSULTADO' / 7×'SIN INFORMACIÓN'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000845-2025\E-000845-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27174973291
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-000846-2025\E-000846-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27164504145
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-001282-2025\E-001282-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27177575106
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: False
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * Informe ANSES incompleto: 0×'NO CONSULTADO' / 7×'SIN INFORMACIÓN'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-007971-2025\E-007971-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27237323462
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: False
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: True
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * Informe ANSES incompleto: 0×'NO CONSULTADO' / 7×'SIN INFORMACIÓN'.
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-008584-2025\E-008584-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20126838515
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: True
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-008587-2025\E-008587-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: False
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 27174744187
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe Renaper INCOMPLETO. Faltan campos.
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-008692-2025\E-008692-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: True
+  - CUIL: 27229218587
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: True
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-008693-2025\E-008693-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: False
+  - Informe Intercajas OK: False
+  - Fotos DNI: True
+  - CUIL: 27253461352
+  - Informe ANSES detectado: False
+  - Informe ANSES completo: False
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe SINTyS: Hay 'RELACIONES FAMILIARES' pero no 'Sin datos de Familiares'.
+    * No se encontró Informe Intercajas (CONSULTA INTERCAJAS).
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+Expediente: C:\Users\abouvier\Downloads\Digitalizacion_jubilaciones\E-008783-2025\E-008783-2025.pdf
+  - Carátula: True
+  - Formulario de Inicio: True
+  - Renaper detectado: True
+  - Renaper completo: True
+  - Informe SINTyS detectado: True
+  - Informe SINTyS OK: True
+  - Informe Intercajas detectado: True
+  - Informe Intercajas OK: True
+  - Fotos DNI: True
+  - CUIL: 20135040410
+  - Informe ANSES detectado: True
+  - Informe ANSES completo: False
+  - Cert. Negativa detectada: True
+  - Cert. Negativa OK: False
+  - Observaciones:
+    * Informe ANSES incompleto: 7×'NO CONSULTADO' / 0×'SIN INFORMACIÓN'.
+    * No se detectó el campo de verificación 'servicioswww.anses.gob.ar/censite/Antecedentes.aspx' en la Certificación Negativa (última página).
+
+
+📊 Resumen Final:
+▪ Expedientes procesados: 15
+▪ Error de lectura: 0
+▪ Carátula hallada: 15
+▪ Formulario Inicio hallado: 15
+▪ Informe Renaper detectado: 15
+▪ Informe Renaper completo: 12
+▪ Informe SINTyS detectado: 15
+▪ Informe SINTyS OK: 15
+▪ Informe Intercajas detectado: 12
+▪ Informe Intercajas OK: 12
+▪ Fotos DNI correctas: 15
+▪ Expedientes con CUIL detectado: 15
+
+🗂 CSV generado: logs\expedientes_20250430_122547.csv

@@ -5,7 +5,7 @@ from modules.validators.verificador_dni import verificar_dni
 from modules.validators.verificador_sintys import verificar_sintys
 from modules.validators.verificador_intercajas import verificar_intercajas
 from modules.validators.verificador_anses import verificar_anses
-
+from modules.validators.verificador_negativa import verificar_certneg
 def verificar_caratula(expediente, texto_pdf):
     if "SOLICITA Jubilación Ordinaria" in texto_pdf:
         expediente.caratula_encontrada = True
@@ -44,5 +44,8 @@ class ChecklistValidator:
 
         # ANSES 
         verificar_anses(expediente, texto_pdf)     # ← nuevo
-        
 
+
+        #  NEGATIVA 
+        verificar_certneg(expediente)
+        

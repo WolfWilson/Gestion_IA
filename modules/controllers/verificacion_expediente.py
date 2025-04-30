@@ -132,6 +132,8 @@ class VerificacionExpedienteController:
                 f.write(f"  - CUIL: {e.cuil}\n")
                 f.write(f"  - Informe ANSES detectado: {e.anses_detectado}\n")
                 f.write(f"  - Informe ANSES completo: {e.anses_completo}\n")
+                f.write(f"  - Cert. Negativa detectada: {e.certneg_detectada}\n")
+                f.write(f"  - Cert. Negativa OK: {e.certneg_ok}\n")
 
 
                 if e.observaciones:

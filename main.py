@@ -22,7 +22,7 @@ def main():
         print("  - Observaciones:", exp.observaciones)
         print("  - Anses detectado:", exp.anses_detectado)
         print("  - Anses completo:", exp.anses_completo)
-              
+        print("  - Certificacion Negativa detectado:", exp.certneg_ok)
 
 if __name__ == "__main__":
     main()
