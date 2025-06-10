@@ -1,25 +1,65 @@
-# modules/exportador.py
+"""
+exportador.py
+-------------
+Genera un CSV con los resultados del análisis.
+"""
+
+from __future__ import annotations
+
 import csv
 from pathlib import Path
+from typing import List
 
-EXPORTS_DIR = Path("logs")
+from modules.helpers.cuils import extraer_cuil
+from modules.models.expediente import Expediente
+
+EXPORTS_DIR: Path = Path("logs")
 EXPORTS_DIR.mkdir(exist_ok=True)
 
-def exportar_a_csv(nombre_base, resultados):
+
+def _cuil_coherente(expediente: Expediente) -> bool:
+    """
+    Consideramos coherente si todos los CUILes registrados son iguales.
+    """
+    valores = {c for c in expediente.cuiles.values() if c}
+    return len(valores) <= 1
+
+
+def exportar_a_csv(nombre_base: str, expedientes: List[Expediente]) -> Path:
+    """
+    Crea un CSV en `logs/nombre_base.csv`.
+
+    Columnas:
+        #, Ruta, CUIL(es), Coherencia, Error de lectura, Observaciones
+    """
     ruta_csv = EXPORTS_DIR / f"{nombre_base}.csv"
 
-    with open(ruta_csv, mode="w", newline="", encoding="utf-8") as file:
+    with ruta_csv.open(mode="w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(["#", "Ruta Archivo", "Resumen", "CUIL Detectado", "Error de Lectura"])
+        writer.writerow(
+            [
+                "#",
+                "Ruta Archivo",
+                "CUIL(es) detectados",
+                "CUIL coherente",
+                "Error de Lectura",
+                "Observaciones (resumen)",
+            ]
+        )
 
-        for i, (ruta, resumen) in enumerate(resultados, 1):
-            cuil = extraer_cuil(resumen)
-            error = "Error" in resumen
-            writer.writerow([i, ruta, resumen, cuil if cuil else "NO DETECTADO", "❌" if error else "✅"])
+        for i, exp in enumerate(expedientes, 1):
+            cuiles = "; ".join(f"{k}:{v}" for k, v in exp.cuiles.items() if v) or "—"
+            coherente = "✅" if _cuil_coherente(exp) else "⚠"
+            obs = " | ".join(exp.observaciones) if exp.observaciones else "—"
+            writer.writerow(
+                [
+                    i,
+                    exp.ruta_pdf,
+                    cuiles,
+                    coherente,
+                    "❌" if exp.error_lectura else "✅",
+                    obs,
+                ]
+            )
 
     return ruta_csv
-
-def extraer_cuil(texto):
-    import re
-    match = re.search(r"\b(20|23|24|27|30)\d{9}\b", texto)
-    return match.group(0) if match else None

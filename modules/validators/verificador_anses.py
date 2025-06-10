@@ -1,29 +1,59 @@
+"""
+validators/verificador_anses.py
+-------------------------------
+Valida el informe “INFORME - ANSES”.
+
+• Detecta si el informe existe.
+• Marca `anses_completo = False` cuando hay demasiados “NO CONSULTADO” o
+  “SIN INFORMACIÓN”.
+• Extrae CUIL y Nro. Documento del encabezado y llama
+  `expediente.registrar_cuil("ANSES", cuil)`.
+"""
+
+from __future__ import annotations
+
 import re
+from typing import Final
 
-# encabezado del bloque
-P_INFORME = re.compile(r"INFORME\s*-\s*ANSES", re.I)
+from modules.helpers.cuils import extraer_cuil
+from modules.models.expediente import Expediente
 
-# bloque desde el encabezado hasta el salto doble o fin
-P_BLOQUE  = re.compile(r"INFORME\s*-\s*ANSES(.*?)(?:\n\s*\n|$)", re.I | re.S)
+# ──────────────────────────── patrones ────────────────────────────
+P_INFORME: Final[re.Pattern[str]] = re.compile(r"INFORME\s*-\s*ANSES", re.I)
+P_BLOQUE: Final[re.Pattern[str]] = re.compile(
+    r"INFORME\s*-\s*ANSES(.*?)(?:\n\s*\n|$)", re.I | re.S
+)
 
-# dos posibles textos que indican ausencia de datos
-P_NO_CONS = re.compile(r"\bNO\s+CONSULTADO\b", re.I)
-P_SIN_INF = re.compile(r"\bSIN\s+INFORMACI[ÓO]N\b", re.I)
+# textos que indican ausencia de datos
+P_NO_CONS: Final[re.Pattern[str]] = re.compile(r"\bNO\s+CONSULTADO\b", re.I)
+P_SIN_INF: Final[re.Pattern[str]] = re.compile(r"\bSIN\s+INFORMACI[ÓO]N\b", re.I)
 
-LIMITE_INCOMPLETO = 7   # 7 o más ocurrencias ⇒ informe incompleto
+# encabezado (CUIL y DNI)
+P_CUIL: Final[re.Pattern[str]] = re.compile(r"CUIL\s*:\s*([0-9][0-9\s-]{10,})", re.I)
+P_DNI: Final[re.Pattern[str]] = re.compile(r"Nro\.\s*Documento\s*:\s*(\d+)", re.I)
+
+LIMITE_INCOMPLETO = 7  # ≥7 ocurrencias ⇒ informe incompleto
 
 
-def verificar_anses(expediente, texto_pdf):
-    """Marca anses_completo = False si hay ≥7 'NO CONSULTADO' o 'SIN INFORMACIÓN'."""
+# ──────────────────────────── función ─────────────────────────────
+def verificar_anses(expediente: Expediente, texto_pdf: str) -> None:
+    """
+    • Marca `anses_detectado`.
+    • Determina `anses_completo` en base a la cantidad de “SIN INFORMACIÓN” /
+      “NO CONSULTADO”.
+    • Registra el CUIL detectado en la cabecera.
+    """
     if not P_INFORME.search(texto_pdf):
-        return                     # informe no presente
+        # Informe no presente -> nada que hacer
+        return
 
     expediente.anses_detectado = True
 
-    # tomar solo el bloque ANSES
-    bloque = P_BLOQUE.search(texto_pdf)
-    bloque = bloque.group(1) if bloque else texto_pdf
+    # ── aislar el bloque “INFORME - ANSES” ─────────────────────────
+    m_bloque = P_BLOQUE.search(texto_pdf)
+    bloque = m_bloque.group(1) if m_bloque else texto_pdf
 
+    # ── chequeo de completitud ─────────────────────────────────────
     total_no_cons = len(P_NO_CONS.findall(bloque))
     total_sin_inf = len(P_SIN_INF.findall(bloque))
 
@@ -32,6 +62,16 @@ def verificar_anses(expediente, texto_pdf):
             f"Informe ANSES incompleto: "
             f"{total_no_cons}×'NO CONSULTADO' / {total_sin_inf}×'SIN INFORMACIÓN'."
         )
-        # anses_completo queda False (valor por defecto)
+        # anses_completo queda False (default)
     else:
         expediente.anses_completo = True
+
+    # ── extracción de CUIL y DNI ───────────────────────────────────
+    if m_cuil := P_CUIL.search(bloque):
+        cuil_raw = m_cuil.group(1)
+        if cuil := extraer_cuil(cuil_raw):
+            expediente.registrar_cuil("ANSES", cuil)
+
+    # (Opcional) DNI si lo querés utilizar más adelante
+    # if m_dni := P_DNI.search(bloque):
+    #     expediente.dni_anses = m_dni.group(1)

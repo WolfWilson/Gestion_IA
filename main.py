@@ -16,7 +16,7 @@ def main():
         print("  - SINTyS detectado:", exp.sintys_detectado)
         print("  - SINTyS OK:", exp.sintys_ok)
         print("  - Fotos DNI:", exp.fotos_dni_front and exp.fotos_dni_back)
-        print("  - CUIL:", exp.cuil)
+        print("  - CUIL:", exp.cuiles)
         print("  - Informe de intercajas detectado:", exp.intercajas_detectado)
         print("  - Informe de intercajas OK:", exp.intercajas_ok)
         print("  - Observaciones:", exp.observaciones)
