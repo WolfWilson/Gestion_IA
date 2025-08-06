@@ -29,7 +29,11 @@ P_NO_CONS: Final[re.Pattern[str]] = re.compile(r"\bNO\s+CONSULTADO\b", re.I)
 P_SIN_INF: Final[re.Pattern[str]] = re.compile(r"\bSIN\s+INFORMACI[ÓO]N\b", re.I)
 
 # encabezado (CUIL y DNI)
-P_CUIL: Final[re.Pattern[str]] = re.compile(r"CUIL\s*:\s*([0-9][0-9\s-]{10,})", re.I)
+# patrón más flexible: ‘CUIL’ opcionalmente con dos puntos,
+# seguido de cualquier whitespace y dígitos/guiones/espacios
+P_CUIL: Final[re.Pattern[str]] = re.compile(
+    r"CUIL\s*:?\s*([\d\s-]{10,})", re.I
+)
 P_DNI: Final[re.Pattern[str]] = re.compile(r"Nro\.\s*Documento\s*:\s*(\d+)", re.I)
 
 LIMITE_INCOMPLETO = 7  # ≥7 ocurrencias ⇒ informe incompleto
@@ -66,11 +70,16 @@ def verificar_anses(expediente: Expediente, texto_pdf: str) -> None:
     else:
         expediente.anses_completo = True
 
-    # ── extracción de CUIL y DNI ───────────────────────────────────
-    if m_cuil := P_CUIL.search(bloque):
-        cuil_raw = m_cuil.group(1)
-        if cuil := extraer_cuil(cuil_raw):
+    # ── extracción de CUIL ────────────────────────────────────
+    # Tomamos sólo las primeras ~6 líneas del bloque para evitar
+    # que coincida algún CUIL de un familiar, por ejemplo.
+    encabezado = "\n".join(bloque.splitlines()[:6])
+
+    if m_cuil := P_CUIL.search(encabezado):
+        if cuil := extraer_cuil(m_cuil.group(1)):
             expediente.registrar_cuil("ANSES", cuil)
+    else:
+        expediente.agregar_observacion("Informe ANSES presente, pero no se pudo extraer CUIL.")
 
     # (Opcional) DNI si lo querés utilizar más adelante
     # if m_dni := P_DNI.search(bloque):

@@ -12,17 +12,17 @@ from __future__ import annotations
 import re
 from typing import Final
 
-_CUIL_REGEX: Final[re.Pattern[str]] = re.compile(
-    r"\b(?:20|23|24|27|30)\d{9}\b"
-)
-
+_CUIL_REGEX: Final[re.Pattern[str]] = re.compile(r"(?:20|23|24|27|30)\d{9}")
 
 def extraer_cuil(texto: str) -> str | None:
     """
-    Devuelve el primer CUIL encontrado o ``None`` si no hay coincidencias.
-    Elimina guiones/espacios antes de buscar.
+    Devuelve el primer CUIL válido o None.
+
+    • Elimina cualquier whitespace (espacios, tabulaciones, saltos de línea)
+      y guiones antes de buscar.
     """
-    normalizado = texto.replace("-", "").replace(" ", "")
+    # NORMALIZAR: quitar - y TODOS los espacios (\s cubre \n, \t, \r…)
+    normalizado = re.sub(r"[\s-]+", "", texto)
     if m := _CUIL_REGEX.search(normalizado):
         return m.group(0)
     return None
